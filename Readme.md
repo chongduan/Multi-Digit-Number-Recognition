@@ -1,5 +1,5 @@
 ﻿# CV-Final-Project
-This is for my final project for CS6476 Computer Vision Fall 2018 @ OMSCS
+This is my final project for CS6476 Computer Vision Fall 2018 @ OMSCS
 
 Chong Duan
 cduan34@gatech.edu
