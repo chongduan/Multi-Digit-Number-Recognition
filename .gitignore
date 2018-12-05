@@ -1,0 +1,6 @@
+# Ignore Checkpoints
+checkpoints/
+checkpoints-pre-trained-VGG16/
+
+# Ignore .mov video presentation
+CV_FinalProject_VideoPresentation.mov
