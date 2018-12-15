@@ -33,3 +33,6 @@ CV_FinalProject_VideoPresentation.pptx is the slides for my video presentation
 Feel free to contact me via my email cduan34@gatech.edu or my cellphone at 314-691-7072 if you have any question. 
 
 Thank you for your time!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTcxMjkyNDQ2MV19
+-->
