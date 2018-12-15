@@ -1,5 +1,5 @@
 ﻿# CV-Final-Project
-This is for my final project for CS6476 Computer Vision Fall 2018 @ OMSCS
+This is my final project for CS6476 Computer Vision Fall 2018 @ OMSCS
 
 Chong Duan
 cduan34@gatech.edu
@@ -10,6 +10,9 @@ cduan34@gatech.edu
 3. './data' folder contains a custom taken video for testing the proposed system
 4. './graded_images' contains the five required output images
 
+
+## Results
+![enter image description here](https://raw.githubusercontent.com/chongduan/Multi-Digit-Number-Recognition/master/graded_images/0.png)
 
 ## Report
 
@@ -33,3 +36,6 @@ CV_FinalProject_VideoPresentation.pptx is the slides for my video presentation
 Feel free to contact me via my email cduan34@gatech.edu or my cellphone at 314-691-7072 if you have any question. 
 
 Thank you for your time!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwODI0MTI1NzddfQ==
+-->
