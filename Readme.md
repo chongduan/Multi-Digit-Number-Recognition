@@ -11,6 +11,9 @@ cduan34@gatech.edu
 4. './graded_images' contains the five required output images
 
 
+## Results
+
+
 ## Report
 
 CS6476-ComputerVision-FinalProj-Report.pdf
@@ -34,5 +37,5 @@ Feel free to contact me via my email cduan34@gatech.edu or my cellphone at 314-6
 
 Thank you for your time!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMjkyNDQ2MV19
+eyJoaXN0b3J5IjpbLTIxMzQ3NjQzMTldfQ==
 -->
